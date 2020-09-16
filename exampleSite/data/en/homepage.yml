@@ -15,33 +15,27 @@ banner:
 features:
   enable: true
   title: Our Core Features
-  image: images/watch-2.png
+  image: images/xc99-trong-suot_lap-van-trang.jpg
   left_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: MATCH YOUR STYLE
+    icon: tf-ion-bowtie
+    content: ''
+  - title: SPEAKING FREELY
+    icon: tf-ion-happy
+    content: ''
+  - title: COME RAIN OR SHINE
+    icon: tf-ion-umbrella
+    content: ''
   right_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: FACE UNLOCK (FOR TRANSPARENT VERSIONS)
+    icon: tf-ion-ios-unlocked-outline
+    content: ''
+  - title: ELEGANT DESIGN
+    icon: tf-ion-ios-color-wand-outline
+    content: ''
+  - title: ANTIBACTERIAL FILTER PAD
+    icon: tf-ion-ios-locked
+    content: ''
 promo:
   enable: true
   image: images/watch.png
