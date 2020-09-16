@@ -1,6 +1,6 @@
 baseurl = "http://demo.themefisher.com/vex-hugo/"
 disableLanguages = ["fr"]
-googleAnalytics = ""
+googleAnalytics = "<script src=\"https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js\"></script> <script>addBackToTop()</script>"
 summarylength = "20"
 theme = "vex-hugo"
 title = "XC99 | A Multi Purpose Mask That Shows YOURSELF"
