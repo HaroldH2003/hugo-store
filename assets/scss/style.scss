@@ -5,7 +5,7 @@ $primary-font: 'Josefin Sans',
 sans-serif;
 $secondary-font: 'Droid Serif',
 serif;
-$primary-color: #f9a743;
+$primary-color: #3AB349;
 $icon-font: 'themefisher-font' !important;
 
 /*--
@@ -80,8 +80,8 @@ ul {
 }
 
 li::marker {
-  color: $primary-color;
-  list-style-type: "➲";
+  color: #F9A743;
+  content: "➲";
   margin-right: 5px;
   padding-inline-start: 2ch;
 }
