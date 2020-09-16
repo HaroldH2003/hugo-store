@@ -59,6 +59,8 @@ link = "plugins/slick/slick.min.css"
 [[params.plugins.css]]
 link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.css"
 [[params.plugins.js]]
+link = "https://code.iconify.design/1/1.0.7/iconify.min.js"
+[[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
