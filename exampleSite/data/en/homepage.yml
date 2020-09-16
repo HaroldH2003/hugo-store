@@ -42,7 +42,7 @@ promo:
   title: Designed by professional , the benefit for creative gigs
   content: It comes in a wide range of colors for mix & match
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
@@ -73,7 +73,7 @@ subscription:
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
 testimonial:
-  enable: true
+  enable: false
   title: Watch Review
   testimonial_item:
   - name: Jonathon Andrew
