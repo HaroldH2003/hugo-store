@@ -37,7 +37,7 @@ features:
     icon: tf-ion-ios-locked
     content: ''
 promo:
-  enable: true
+  enable: false
   image: images/xc99-trong-suot-van-trang-2.png
   title: Designed by professional , the benefit for creative gigs
   content: It comes in a wide range of colors for mix & match
