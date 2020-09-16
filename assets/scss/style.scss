@@ -81,7 +81,7 @@ ul {
 }
 
 li::marker {
-  content: '✅';
+  content: '➲';
   font-size: 2rem;
   background: hsl(200 20% 88%);
   animation: color-change 3s ease-in-out infinite;
