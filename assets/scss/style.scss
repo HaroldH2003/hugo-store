@@ -79,11 +79,10 @@ ul {
   margin: 0;
 }
 
-li {
+li::marker {
   color: $primary-color;
   list-style-type: "➲";
-  font-size: 2rem;
-  margin-right: 10px;
+  margin-right: 5px;
   padding-inline-start: 2ch;
 }
 
