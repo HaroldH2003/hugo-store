@@ -79,11 +79,17 @@ ul {
   margin: 0;
 }
 
+#hero-banner ul li {
+  padding-inline-start: 2ch;
+}
+
 #hero-banner ul li::marker {
   color: #F9A743;
   content: "➲";
+}
+
+#hero-banner ul li::before {
   padding-right: 5px;
-  padding-inline-start: 2ch;
 }
 
 a {
