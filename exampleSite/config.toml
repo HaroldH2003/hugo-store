@@ -1,5 +1,5 @@
 baseurl = "http://demo.themefisher.com/vex-hugo/"
-disableLanguages = []
+disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
