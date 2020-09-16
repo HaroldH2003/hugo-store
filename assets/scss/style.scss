@@ -80,7 +80,8 @@ ul {
 }
 
 #hero-banner ul li {
-  padding-inline-start: 2ch;
+  padding-inline-start: 3ch;
+  font-size: 2rem;
 }
 
 #hero-banner ul li::marker {
@@ -90,7 +91,7 @@ ul {
 }
 
 #hero-banner ul li::before {
-  padding-right: 3px;
+  padding-right: 1.5px;
 }
 
 a {
