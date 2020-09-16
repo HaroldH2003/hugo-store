@@ -17,10 +17,6 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 1
-[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 2
@@ -40,10 +36,6 @@ weight = 1
 URL = "products"
 name = "Products"
 weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
