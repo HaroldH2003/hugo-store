@@ -2,11 +2,10 @@
 banner:
   enable: true
   title: Believe in Technology, Make the change
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!
-
-    <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
-    <script>addBackToTop()</script>
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
+    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
+    hic at, nostrum nihil!
   image: images/watch.png
   button:
     enable: true
