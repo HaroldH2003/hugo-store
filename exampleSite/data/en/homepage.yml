@@ -38,12 +38,9 @@ features:
     content: ''
 promo:
   enable: true
-  image: images/watch.png
+  image: images/xc99-trong-suot-van-trang-2.png
   title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  content: It comes in a wide range of colors for mix & match
 about_product:
   enable: true
   title: Why Choose Apple Watch
