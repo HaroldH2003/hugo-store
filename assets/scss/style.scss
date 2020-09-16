@@ -80,14 +80,14 @@ ul {
 }
 
 #hero-banner ul li {
-  padding-inline-start: 3ch;
-  font-size: 2rem;
+  padding-inline-start: 1.5ch;
+  font-size: 20px;
 }
 
 #hero-banner ul li::marker {
   color: #F9A743;
   content: "➲";
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 #hero-banner ul li::before {
