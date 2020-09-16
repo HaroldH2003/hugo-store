@@ -1,15 +1,13 @@
 ---
 banner:
   enable: true
-  title: Believe in Technology, Make the change
-  content: |-
-    <script>addBackToTop({
-      diameter: 56,
-      backgroundColor: 'rgb(0,0,0)',
-      textColor: '#fff'
-    })</script>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!
-  image: images/watch.png
+  title: A Multi-Purpose Mask That Shows YOURSELF
+  content: |
+    * Made of TPU plastic which is used in biomedical applications & food industry.
+    * Anti-droplets.
+    * Come rain or shine
+    * Washable simply with common disinfectants. Quickly air-dry. Reusable.
+  image: images/xc99-smoke-5.png
   button:
     enable: true
     label: Browse All Products
