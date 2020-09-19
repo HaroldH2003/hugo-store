@@ -1,20 +1,18 @@
 ---
 title: XC99 FM Smoke Transparent
-date: 2020-09-18T17:00:00+00:00
+date: 2019-10-17T11:22:16.000+06:00
 images:
-- images/showcase/showcase-1.png
-- images/showcase/showcase-2.png
-- images/showcase/showcase-3.png
-- images/showcase/showcase-4.png
+- images/xc99-smoke-5.png
+- images/119164020_3287134648035797_6032856848925563832_o.jpg
+- images/model-mask-khoi-1.jpg
+- images/trongkhoi.png
 description: Our brand new color variant recently introduced, proudly made of TPU
   plastic. With its unique curved design that delivers maximum comfort, effortless
   breathing, speaking freely and our renowned 'lipstick-friendly' standard.
 price: "8.99"
-discount_price: "7.69"
-colors:
-- Smoke Transparent
+discount_price: "6.79"
+colors: []
 sizes: []
-image: ''
 
 ---
 * Package Contents : 1 TPU plastic mask, 1 uniway valve, 2 elastic traps, antibacterial filter pad.
