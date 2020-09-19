@@ -3,7 +3,6 @@ colors = []
 date = 2020-09-19T05:22:16Z
 description = "Our signature transparent variant, proudly made of TPU plastic. With its unique curved design that delivers maximum comfort, effortless breathing, speaking freely and our renowned 'lipstick-friendly' standard."
 discount_price = "5.99"
-draft = true
 images = ["images/khautrang_danhmuc.jpg", "images/xc99-trong-suot-van-trang-2_resize.png", "images/1600497301889.jpg", "images/1600497041789.jpg"]
 price = "6.89"
 sizes = []
