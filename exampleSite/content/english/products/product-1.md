@@ -11,7 +11,8 @@ description: Our brand new color variant recently introduced, proudly made of TP
   breathing, speaking freely and our renowned 'lipstick-friendly' standard.
 price: "8.99"
 discount_price: "7.69"
-colors: []
+colors:
+- Smoke Transparent
 sizes: []
 image: "/images/xc99-smoke-5.png"
 
