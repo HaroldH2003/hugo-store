@@ -1,6 +1,6 @@
 ---
 title: XC99 FM Smoke Transparent
-date: 2019-10-17T11:22:16.000+06:00
+date: 2020-09-19T05:22:16+00:00
 images:
 - images/xc99-smoke-5.png
 - images/119164020_3287134648035797_6032856848925563832_o.jpg
