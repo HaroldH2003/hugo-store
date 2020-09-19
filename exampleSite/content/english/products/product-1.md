@@ -1,24 +1,25 @@
 ---
-title: "Apple Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: XC99 Smoke Transparent
+date: 
+images:
+- images/showcase/showcase-1.png
+- images/showcase/showcase-2.png
+- images/showcase/showcase-3.png
+- images/showcase/showcase-4.png
+description: Our brand new color variant recently introduced, proudly made of TPU
+  plastic. With its unique curved design that delivers maximum comfort, effortless
+  breathing, speaking freely and our renowned 'lipstick-friendly' standard.
+price: "$8.99"
+discount_price: "$7.69"
+colors: []
+sizes: []
+image: "/images/xc99-smoke-5.png"
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+* Package Contents : 1 TPU plastic mask, 1 uniway valve, 2 elastic traps, antibacterial filter pad.
+* Usage Instructions : Put the mask on your face (uniway valve should be on the left), then put the elastic traps around your ears.
+* Maintenance : Wash the mask with common disinfectants after using. Keep away from high or freeze temperature.
+* Package : 1 set of mask/box
+* Expiration : XC99 plastic mask is washable and reusable.
+* No.TCCS 01:2020/LT
+* Manufactured & Distributed by LONG THUY 3D PRINTING CO, LTD
