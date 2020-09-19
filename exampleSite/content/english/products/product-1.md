@@ -1,5 +1,5 @@
 ---
-title: XC99 Smoke Transparent
+title: XC99 FM Smoke Transparent
 date: 
 images:
 - images/showcase/showcase-1.png
