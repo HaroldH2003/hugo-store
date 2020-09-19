@@ -14,7 +14,7 @@ discount_price: "5.99"
 colors:
 - Transparent
 sizes: []
-image: "/images/khautrang_danhmuc.jpg"
+image: ''
 
 ---
 * Package Contents : 1 TPU plastic mask, 1 uniway valve, 2 elastic traps, antibacterial filter pad.
