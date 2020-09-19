@@ -1,6 +1,6 @@
 ---
 title: XC99 FM Transparent
-date: 
+date: 2020-09-18T17:00:00+00:00
 images:
 - images/showcase/showcase-2.png
 - images/showcase/showcase-1.png
