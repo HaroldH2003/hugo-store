@@ -1,11 +1,11 @@
 +++
 colors = []
 date = 2020-09-19T05:22:16Z
-description = "Our brand new color variant recently introduced, proudly made of TPU plastic. With its unique curved design that delivers maximum comfort, effortless breathing, speaking freely and our renowned 'lipstick-friendly' standard."
-discount_price = "6.79"
+description = "Our signature transparent variant, proudly made of TPU plastic. With its unique curved design that delivers maximum comfort, effortless breathing, speaking freely and our renowned 'lipstick-friendly' standard."
+discount_price = "5.99"
 draft = true
-images = ["images/xc99-smoke-5.png", "images/119164020_3287134648035797_6032856848925563832_o.jpg", "images/model-mask-khoi-1.jpg", "images/trongkhoi.png"]
-price = "8.99"
+images = ["images/khautrang_danhmuc.jpg", "images/xc99-trong-suot-van-trang-2_resize.png", "images/1600497301889.jpg", "images/1600497041789.jpg"]
+price = "6.89"
 sizes = []
 title = "XC99 FM Transparent"
 
