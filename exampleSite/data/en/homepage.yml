@@ -42,8 +42,8 @@ promo:
   title: Designed by professional , the benefit for creative gigs
   content: It comes in a wide range of colors for mix & match
 about_product:
-  enable: false
-  title: Why Choose Apple Watch
+  enable: true
+  title: XC99 - Ready for Export
   items:
   - image: images/screenshot-from-2020-09-19-13-40-31.png
     title: XC99 THE PRODUCTION LINE
@@ -52,24 +52,6 @@ about_product:
       label: Contact Us For Bulk Orders
       link: "/contact"
       enable: true
-  - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
-    button:
-      enable: false
-      label: Check Features
-      link: "#"
-  - image: images/showcase/showcase-3.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
-    button:
-      enable: false
-      label: Check Features
-      link: "#"
 products:
   enable: true
   title: Checkout Our All Products
