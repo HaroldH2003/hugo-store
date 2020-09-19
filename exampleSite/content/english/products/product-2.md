@@ -6,7 +6,9 @@ images:
 - images/showcase/showcase-1.png
 - images/showcase/showcase-3.png
 - images/showcase/showcase-4.png
-description: this is meta description
+description: Our signature transparent variant, proudly made of TPU plastic. With
+  its unique curved design that delivers maximum comfort, effortless breathing, speaking
+  freely and our renowned 'lipstick-friendly' standard.
 price: '30.00'
 discount_price: '25.00'
 colors:
