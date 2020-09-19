@@ -11,7 +11,8 @@ description: Our signature transparent variant, proudly made of TPU plastic. Wit
   freely and our renowned 'lipstick-friendly' standard.
 price: "6.89"
 discount_price: "5.99"
-colors: []
+colors:
+- Transparent
 sizes: []
 image: "/images/khautrang_danhmuc.jpg"
 
