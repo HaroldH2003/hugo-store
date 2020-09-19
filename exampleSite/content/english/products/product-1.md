@@ -14,7 +14,7 @@ discount_price: "7.69"
 colors:
 - Smoke Transparent
 sizes: []
-image: "/images/xc99-smoke-5.png"
+image: ''
 
 ---
 * Package Contents : 1 TPU plastic mask, 1 uniway valve, 2 elastic traps, antibacterial filter pad.
@@ -24,7 +24,3 @@ image: "/images/xc99-smoke-5.png"
 * Expiration : XC99 plastic mask is washable and reusable.
 * No.TCCS 01:2020/LT
 * Manufactured & Distributed by LONG THUY 3D PRINTING CO, LTD
-
-![](/images/119164020_3287134648035797_6032856848925563832_o.jpg)
-
-![](/images/119459667_3295670487182213_402858796112928309_o.jpg)
