@@ -1,7 +1,7 @@
 +++
 colors = []
 date = 2020-09-19T05:22:16Z
-description = "Our brand new color variant recently introduced, proudly made of TPU plastic. With its unique curved design that delivers maximum comfort, effortless breathing, speaking freely and our renowned 'lipstick-friendly' standard."
+description = "Our white color variant, proudly made of TPU plastic. With its unique curved design that delivers maximum comfort, effortless breathing, speaking freely and our renowned 'lipstick-friendly' standard."
 discount_price = "4.99"
 images = ["images/xc99-trang-_-van-trang.png", "images/1600497163612.jpg", "images/mask-xc99-lap-van-6.png", "images/1600497163805.jpg"]
 price = "5.59"
