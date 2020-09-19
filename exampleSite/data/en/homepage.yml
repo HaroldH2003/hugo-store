@@ -45,6 +45,13 @@ about_product:
   enable: false
   title: Why Choose Apple Watch
   items:
+  - image: images/screenshot-from-2020-09-19-13-40-31.png
+    title: XC99 THE PRODUCTION LINE
+    content: ''
+    button:
+      label: Contact Us For Bulk Orders
+      link: "/contact"
+      enable: true
   - image: images/showcase/showcase-4.png
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
